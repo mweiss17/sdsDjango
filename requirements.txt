@@ -45,7 +45,7 @@ python-openid==2.2.5
 pyxattr==0.5.0
 requests==1.2.3
 requests-oauthlib==0.4.0
-rsa==3.1.2
+rsa==4.1
 simplejson==3.3.0
 six==1.2.0
 urlgrabber==3.9.1
